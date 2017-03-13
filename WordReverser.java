@@ -1,7 +1,7 @@
 import java.util.*;
 public class WordReverser {
 	//This program will analyse and manipulate a string defined by the user.
-	//William Akinsanya, Student Number: 2937067
+	//WillAY998 2017
 		//A method for the word reversing segment of the program is defined.
 		static boolean reverseWord (String NthChar,int BeginReverse, int Counter) {
 			boolean Palindrome = true;
